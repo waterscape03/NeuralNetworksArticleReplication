@@ -2,8 +2,8 @@
 This repository contains the implementation of our replication study, aimed at verifying the methodology and results of the original paper on primate species classification using Convolutional Neural Networks (CNNs). As part of our academic research, we enhanced the model by addressing data handling issues, applying augmentation techniques, and improving model robustness.
 
 # Replicated article
-S. Kamepalli, V. K. K. Kolli, S. R. Bandaru, ”Animal Breed Classification and Prediction Using Convolutional Neural Network: Primates
-as a Case Study,” VFSTR Fourth International Conference on Electrical, Computer and Communication Technologies (ICECCT), 2021. DOI:
+S. Kamepalli, V. K. K. Kolli, S. R. Bandaru, ”[Animal Breed Classification and Prediction Using Convolutional Neural Network: Primates
+as a Case Study](https://ieeexplore.ieee.org/document/9616928/)” VFSTR Fourth International Conference on Electrical, Computer and Communication Technologies (ICECCT), 2021. DOI:
 10.1109/ICECCT52121.2021.9616928
 
 # Link to dataset
